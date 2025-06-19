@@ -1,4 +1,4 @@
-# excel-P&L-Sales-analysis
+# excel-P&L-analysis
 
 This project showcases a fully Excel-based interactive report for **AtliQ Hardware**, built using **Power Query** for data transformation and **Power Pivot** for data modeling and DAX measures. The dashboard delivers actionable insights into customer performance, market trends vs targets, and profit & loss (P&L) metrics across fiscal years 2019 to 2021.
 
